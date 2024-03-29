@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @enosV
 - 👀 I’m interested in coding challenges
-- 🌱 I’m currently learning JavaScript and Python
-- 💞️ I’m looking to collaborate on react.js and Flask
+- 🌱 I’m currently code in JavaScript and Python
+- 💞️ I’m Building an app with react.js and Flask
 - 📫 How to reach me: enosvazquez@protonmail.com
 
 <!---
